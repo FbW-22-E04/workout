@@ -1,4 +1,6 @@
 # workout
 
-## workout 1 
- - Do 2 pushups
+## Contributing
+
+    - Add your workouts
+    - Make sure your .md file name is unique
